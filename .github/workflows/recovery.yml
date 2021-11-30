@@ -14,10 +14,10 @@ on:
     types: [started]
 
 env:
-  MANIFEST: https://github.com/SHRP/manifest/tree/v3_11.0
-  MANIFEST_BRANCH: v3_11.0
+  MANIFEST: https://github.com/PitchBlackRecoveryProject/manifest_pb
+  MANIFEST_BRANCH: android-11.0
   DEVICE: camellia
-  DT_LINK: https://github.com/willzyx-hub/shrp_device_xiaomi_camellia
+  DT_LINK: https://github.com/willzyx-hub/pbrp_device_xiaomi_camellia
   DT_PATH: device/xiaomi/camellia
   TARGET: bootimage
   TZ: Asia/Kolkata
