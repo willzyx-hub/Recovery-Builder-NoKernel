@@ -14,12 +14,12 @@ on:
     types: [started]
 
 env:
-  MANIFEST: https://gitlab.com/OrangeFox/Manifest.git
-  MANIFEST_BRANCH: fox_9.0
-  DEVICE: rosy
-  DT_LINK: https://github.com/ElytrA8/recovery_rosy
-  DT_PATH: device/xiaomi/rosy
-  TARGET: recoveryimage
+  MANIFEST: https://github.com/SHRP/manifest/tree/v3_11.0
+  MANIFEST_BRANCH: v3_11.0
+  DEVICE: camellia
+  DT_LINK: https://github.com/willzyx-hub/shrp_device_xiaomi_camellia
+  DT_PATH: device/xiaomi/camellia
+  TARGET: bootimage
   TZ: Asia/Kolkata
 
 jobs:
