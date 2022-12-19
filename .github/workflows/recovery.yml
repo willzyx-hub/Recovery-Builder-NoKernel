@@ -15,7 +15,7 @@ on:
 
 env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp
-  MANIFEST_BRANCH: android-11.0
+  MANIFEST_BRANCH: twrp-12.1
   DEVICE: camellia
   DT_LINK: https://github.com/willzyx-hub/twrp_device_xiaomi_camellia
   DT_PATH: device/xiaomi/camellia
